@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Analyze75.fs" />
+    <Compile Include="Nifti1.fs" />
+    <Compile Include="Nifti2.fs" />
+    <Compile Include="Image.fs" />
+  </ItemGroup>
+
+</Project>
